@@ -1,6 +1,8 @@
-- name: Home
+- name: schloschi
   link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
+- name: abenteuer
+  link: /abenteuer.html
+- name: projekte
+  link: /projekte.html
+- name: gedanken
+  link: /gedanken.html

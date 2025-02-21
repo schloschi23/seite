@@ -1,5 +1,21 @@
+@charset "UTF-8";
 .current {
   color: green;
+}
+
+nav {
+  padding: 10px;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none; /* Entfernt Unterstreichung von Links */
+  color: black; /* Standardfarbe der Links */
+  padding: 10px; /* Etwas Abstand um die Links */
+}
+
+nav a:hover {
+  color: blue; /* Farbänderung beim Hover */
 }
 
 /*# sourceMappingURL=styles.css.map */
