@@ -19,6 +19,15 @@
 }
 
 
+.bg {
+width: 80%;
+margin: auto;
+border-radius: 16px;
+}
 
 
 
+.content {
+width: 80%;
+margin: auto;
+}
