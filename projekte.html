@@ -1,0 +1,20 @@
+---
+layout: default
+title: projekte
+---
+<h1>Projekte!</h1>
+<p>Glückwunsch, du hast es auf meine Webseite geschafft. Hier kannst du dich durch meine
+Gedanken, Abenteuer und Projekte wühlen. Wer ich bin, ist nicht so wichtig.</p>
+
+
+<p>Hier kannst du dir mal ein paar Gedanken durchlesen....</p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
