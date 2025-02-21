@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
+gem "jekyll"
 gem "logger"
 gem "csv"
 gem "ostruct"
