@@ -1,0 +1,1 @@
+Die Wissenschaft hat den Charme, dass sie an keine Interessengruppe gebunden ist

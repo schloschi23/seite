@@ -1,0 +1,1 @@
+Ich hatte das [[Die WAHRHEIT über FACEBOOK]] eigentlich ausgesucht, um etwas über Cambridge Analytica herauszufinden. 

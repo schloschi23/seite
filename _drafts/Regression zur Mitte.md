@@ -1,0 +1,1 @@
+Ich will mehr von Neben dem Zinseszinseffekt ist das ein weiteres Rätsel der Mathematik, welches Ich gerne tiefer verstehen möchte. Der Effekt gehört zur [[Statistik]]

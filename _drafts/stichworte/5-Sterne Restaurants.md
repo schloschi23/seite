@@ -1,0 +1,1 @@
+Mir hat es sehr gut gefallen. Die Portionen waren klein und köstlich. Und der Wein hat auch sehr gut geschmeckt. Ich würde gerne immer so essen, das macht mir Spaß. Ich habe mich fast ein bisschen bekifft gefühlt. Der Alkohol hat meinen Kopf zum Drehen gebracht und ich hatte ein warmes Gefühl im Bauch. Es war sehr angenehm. 

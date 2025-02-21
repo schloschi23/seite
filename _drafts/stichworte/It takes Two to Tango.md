@@ -1,0 +1,5 @@
+Nach einem Leitartikel aus dem Jahr 2021 von Nick Clegg, in welchem er zu verklickern versucht, dass man selbst für seinen [[soziale Medien]] Feed verantwortlich ist. Das stimmt aber nicht, weil vermehrt extreme Inhalte angespült werden, um Nutzer auf der Platform zu halten. 
+
+Mich macht dieses Prinzip immer wahnsinnig wütend. Libertäre alte Säcke reden darüber, dass der freie Wille existiert und, dass es nur an einem selbst liegt. Es liegt ganz in deiner Hand, ob du Raucher wirst oder nicht. Es liegt ganz an dir, ob du 5 Minuten oder 5 Stunden am Tag auf Social Media verbringst. Es liegt ganz an dir, ob du kompulsiv Pornos schaust, oder ein gesundes Sexleben hast. 
+
+NEIN. Ich bin es satt immer zu denken, dass ich schwach bin. Weil wenn es meine Schuld ist, ich es aber gar nicht will, muss es an meiner Schwäche liegen. Das ist eine ziemlich verletzende und falsche Realisation. All diese Produkte sind so erstellt worden, dass sie Knöpfe in unseren Köpfen drücken, die wir gar bewusst drücken könnten. 

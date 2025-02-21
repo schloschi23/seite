@@ -1,0 +1,1 @@
+Die Affektheuristik ist eine ganz verrückte Heuristik 

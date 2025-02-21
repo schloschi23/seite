@@ -1,0 +1,6 @@
+Amerikanischen Unternehmensgründern wurde die Frage gestellt: »Wird Ihr Unternehmen in fünf Jahren noch existieren?« 81 Prozent der Befragten glaubten, eine Überlebenschance von mindestens 70 Prozent zu haben. Tatsächlich aber liegt ihre Überlebenschance nur bei 25 Pro- zent, wie eine entsprechende empirische Studie belegt. Eine ähnliche Selbstüberschätzung, was die Prognose ihrer Ergebnisse betrifft, findet sich bei Fondsmanagern und anderen Finanzmarktprofis.
+
+»Wie schätzen Sie Ihr Fahrkönnen ein?«, fragte man Autofahrer. Rund 80 Prozent der Be- fragten wähnten sich unter den besten 30 Prozent, wie Sie schon aus dem einleitenden Kapitel dieses Buches wissen.
+
+
+Es ist intuitiv einleuchtend und durch zahlreiche Untersuchungen belegt, dass wir unsere Erfolge eher den eigenen Fähigkeiten als äußeren Einflüssen zuschreiben, während wir die Verantwortung für Misserfolge anderen Faktoren zuschieben. Dies dient der Aufrechterhaltung unseres Selbstbewusstseins. Hinzu kommt, dass wir oft unsere Möglichkeiten überschätzen, auf das Ergeb- nis einer Entscheidung Einfluss zu nehmen. Die Psychologen nennen diese Einstellung »Kontrollillusion«.

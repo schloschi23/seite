@@ -1,0 +1,1 @@
+Im Endeffekt ist es gerade am sinnvollsten in sich selbst zu investieren und das 8. Weltwunder, den Zinseszinseffekt, auf sich wirken zu lassen. 

@@ -1,0 +1,1 @@
+Ich höre gerne und viel Podcasts. Seit längerem stört mich aber, dass ich kaum etwas daraus behalte und wenn, dann ist das meistens nur gefährliches Halbwissen. Deswegen hatte ich den Gedanken komplett mit dem Podcasthören aufzuhören. Vielleicht sollte ich das wirklich machen. 

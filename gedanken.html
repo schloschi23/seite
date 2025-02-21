@@ -2,7 +2,16 @@
 layout: default
 title: Blog
 ---
-<h1>Latest Posts</h1>
+<h1>Schau mir in den Kopf!</h1>
+
+
+
+<p>Themen: 
+  {% for tag in page.tags %}
+    <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+  {% endfor %}
+</p>
+
 
 <ul>
   {% for post in site.posts %}

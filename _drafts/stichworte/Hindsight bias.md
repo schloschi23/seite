@@ -1,0 +1,2 @@
+Die Menschen sind so veranlagt, dass sie sich im Durchschnitt besser an eigene Erfolge als an eigene Misserfolge erinnern. Ihr Gedächt- nis funktioniert also nicht wie ein mathematisch korrektes statistisches Testverfahren, sondern es versucht vielmehr, Misserfolge so gut es geht zu verdrängen. Diese verzerrte Erinnerung mag dazu führen, dass wir wohlgemut durchs Leben gehen, aber sie führt auch dazu, dass wir die Chartanalyse fälschlicherweise für ein erfolgreiches Analysewerkzeug halten.
+
