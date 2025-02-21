@@ -50,7 +50,7 @@ Privatanleger können den Markt nicht schlagen. Sie erreichen mit einem Minus v
 
 Auch bei diesem Thema gilt wieder: Gute Entscheidungen zu treffen beruht zum größten Teil auf wenigen simplen Kernprinzipien. Wenn man diese Prinzipien umsetzt ist man schon besser dran als der durchschnittliche Anleger und deshalb sollte man sie unbedingt verstehen und beherzigen. 
 Gerade einfache Aussagen treffen oft den Kern. 
-Laut dem Arero-Prinzip und Robbies Vortrag gibt es acht einfache, klare Prinzipien, die in punkto Geldanlage für größtmögliche Wirkung sorgen. 
+Laut dem Arero-Prinzip und Vortrag gibt es acht einfache, klare Prinzipien, die in punkto Geldanlage für größtmögliche Wirkung sorgen. 
 Privatanleger können nicht erwarten den Markt zu schlagen. Aber ich als Privatanleger will es schaffen den durchschnittlichen Privatanleger zu schlagen. 
 
 

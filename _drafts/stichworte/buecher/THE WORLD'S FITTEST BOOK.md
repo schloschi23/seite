@@ -1,4 +1,4 @@
-Ich bin mit ca. 16 Jahren auf Ross Edgley aufmerksam geworden bin, als ich bei Freddy in der Garage ein [[Buch]] über seinen Great Swim gelesen habe. Seitdem richte ich mich in meinem [[Sport]] und meinem Training nach ihm. 
+Ich bin mit ca. 16 Jahren auf Ross Edgley aufmerksam geworden bin, als ich bei einem Freund in der Garage ein [[Buch]] über seinen Great Swim gelesen habe. Seitdem richte ich mich in meinem [[Sport]] und meinem Training nach ihm. 
 
 Ich will gerne wissen: how to train for anything and everything, anywhere and everywhere.
 
