@@ -11,10 +11,14 @@
             "id": "fb1ba27affd97fb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "stichworte/buecher/Arero.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Arero"
             }
           }
         ]
@@ -161,6 +165,10 @@
   },
   "active": "fb1ba27affd97fb8",
   "lastOpenFiles": [
+    "stichworte/buecher/DAS EINZIGE BUCH DAS DU JEMALS ÜBER FINANZEN LESEN SOLLTEST.md",
+    "stichworte/buecher/2023-12-24-der-glukose-trick.md",
+    "assets/Pasted image 20241003232409.png",
+    "stichworte/It takes Two to Tango.md",
     "Woche in Tübingen.md",
     "Wellen.md",
     "special snowflak.md",
@@ -184,15 +192,11 @@
     "stichworte/soziale Netzwerke sind asozial.md",
     "stichworte/Risiko.md",
     "stichworte/Psychoanalyse.md",
-    "stichworte/Podcasts.md",
-    "stichworte/Overconfidence Bias.md",
-    "stichworte/kohlhammer.md",
     "assets/Pasted image 20241006134704.png",
     "assets/Pasted image 20241006134652.png",
     "assets/Pasted image 20241006134144.png",
     "assets/Pasted image 20241003232528.png",
     "assets/Pasted image 20241003232426.png",
-    "assets/Pasted image 20241003232409.png",
     "assets/Pasted image 20241001175647.png",
     "assets",
     "stichworte/sport",
