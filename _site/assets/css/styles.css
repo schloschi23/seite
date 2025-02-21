@@ -3,19 +3,19 @@
   color: green;
 }
 
-nav {
+.header {
   padding: 20px 20px;
   background-color: #f1f1f1;
   font-weight: bold;
 }
 
-nav a {
+.header a {
   text-decoration: none; /* Entfernt Unterstreichung von Links */
   color: black; /* Standardfarbe der Links */
   padding: 40px; /* Etwas Abstand um die Links */
 }
 
-nav a:hover {
+.header a:hover {
   color: blue; /* Farbänderung beim Hover */
 }
 
