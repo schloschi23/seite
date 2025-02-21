@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Gewinnerfrühstück"
-excerpt_separator: <!--more-->
+title: Gewinnerfrühstück
+tags: self-improvement
+author: schloschi
 ---
 Vor ein paar Woche redete ich beim gemeinsamen Mittagessen mit meinen Freunden über das Frühstück. Wir stellten schnell fest, dass unsere Vorstellungen eines guten Frühstücks stark voneinander abwichen. Dennoch waren wir uns alle sicher, dass ein tolles Frühstück notwendig für einen tollen Tag ist. 
 
